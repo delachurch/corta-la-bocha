@@ -1,0 +1,62 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+nav .brand-logo.right {
+    height: 64px;
+}
+
+img#profile {
+    height: 50px;
+}
+
+.card {
+  width: 450px;
+  margin: 10px auto 30px auto;
+  padding: 0;
+  box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.7);
+  border-top: solid 1px #B6B6B6;
+}
+
+.card-image img {
+  height: 250px;
+}
+
+.card-title {
+  text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black;
+}
+
+.ul {
+  padding: 0;
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.ul li{
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+}
+
+.collection {
+	border:0;
+}
+
+.ul li i {
+  font-size: 2em;
+  color: #3F51B5;
+}
+
+.collapsible {
+	margin: 0;
+	border: 0;
+}
